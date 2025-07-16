@@ -1,8 +1,6 @@
 # Web-GIS-with-OpenLayers-and-PostGIS-Integration-
 "Web-Based GIS with Integration of OpenLayers and PostgreSQL, Using PHP-Ajax and Bootstrap"
 
-# Integration Of web frontend PHP-Ajax Spatial Cities Demo
-
 This project demonstrates how to connect a web frontend (using OpenLayers and Bootstrap) with a PostgreSQL/PostGIS database using PHP and AJAX. Users can view, add, and interact with city features on a map.
 
 ## Features
